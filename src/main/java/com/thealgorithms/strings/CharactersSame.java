@@ -11,6 +11,7 @@ public class CharactersSame {
         assert isAllCharactersSame("aaa");
         assert isAllCharactersSame("11111");
     }
+	//First comment
 
     /**
      * check if all the characters of a string are same
